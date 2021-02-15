@@ -1,2 +1,2 @@
 # FunPool
-Epitech functionnal programming pool in Haskell
+Epitech second year functional programming pool in Haskell
